@@ -27,8 +27,11 @@ It automates multiple data preprocessing steps including null removal, text clea
 - `/data` → Raw Sales Excel files  
 - `/output` → Cleaned & processed Excel files  
 - [`sales_cleaning.py` ](https://github.com/Junaid30121997/Sales-Data-Cleaning-Python/blob/main/Python%20Code.py)→ Python script containing reusable functions  
-- `requirements.txt` → Required Python libraries  
-- `/docs` → Reference PDF (tasks & instructions)  
+- pandas
+numpy
+fuzzywuzzy
+openpyxl→ Required Python libraries  
+- [`/docs`](https://github.com/Junaid30121997/Sales-Data-Cleaning-Python/blob/main/Python%20Test%20.pdf) → Reference PDF (tasks & instructions)  
 
 ##  Tech Stack
 - Python (pandas, numpy, fuzzywuzzy)  
