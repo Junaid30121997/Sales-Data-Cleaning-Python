@@ -25,7 +25,7 @@ It automates multiple data preprocessing steps including null removal, text clea
 
 ##  Repository Structure
 - `/data` → Raw Sales Excel files  
-- `/output` → Cleaned & processed Excel files  
+- [`/output`](https://github.com/Junaid30121997/Sales-Data-Cleaning-Python/blob/main/Sales_Data_.xlsx) → Cleaned & processed Excel files  
 - [`sales_cleaning.py` ](https://github.com/Junaid30121997/Sales-Data-Cleaning-Python/blob/main/Python%20Code.py)→ Python script containing reusable functions  
 - pandas
 numpy
